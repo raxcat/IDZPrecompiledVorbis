@@ -6,7 +6,7 @@ IDZ_OGG_VERSION=$IDZ_OGG_VERSION
 #Run xcodebuild -showsdks to see the iOS version availanle on your mac
 xcodebuild -showsdks
 
-IDZ_IOS_SDK_VERSION=8.1
+IDZ_IOS_SDK_VERSION=9.3
 
 pushd $IDZ_BUILD_ROOT
 
